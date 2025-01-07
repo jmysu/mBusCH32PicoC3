@@ -13,4 +13,5 @@ Die-Shot: CH32V003(90nm), ESP32-C2(40nm), RP2350(40nm) <br>
 ---
 ### References
 ---
-[AN3219](https://www.nxp.com/docs/en/application-note/AN3219.pdf) Driving Bare TN and STN LCDs Using GPIO Pins (NXP Application Notes).
+[AN3219](https://www.nxp.com/docs/en/application-note/AN3219.pdf) Driving Bare TN and STN LCDs Using GPIO Pins (NXP Application Notes). <br>
+[AN3412](https://www.nxp.com/docs/en/application-note/AN3412.pdf) Dynamic LCD Driver Using GPIO Pins (NXP Application Notes). <br>
